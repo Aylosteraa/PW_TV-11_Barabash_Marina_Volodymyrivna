@@ -1,0 +1,15 @@
+<resources>
+    <string name="next">Next</string>
+    <string name="lorem_ipsum">Lorem ipsum</string>
+    <string name="previous">Previous</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="data_input">Введіть дані</string>
+    <string name="p">Середньодобова потужність</string>
+    <string name="q1">Початкове середньоквадратичне відхилення</string>
+    <string name="q2">Середньоквадратичне відхилення після вдосконалення</string>
+    <string name="B">Вартість електроенергії</string>
+    <string name="calculate">Розрахувати</string>
+</resources>
